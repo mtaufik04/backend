@@ -1,2 +1,5 @@
-fastapi
+flask
+flask-cors
+numpy
+opencv-python
 uvicorn
